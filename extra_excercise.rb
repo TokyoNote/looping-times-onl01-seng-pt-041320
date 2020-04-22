@@ -1,5 +1,3 @@
-def penguins_having_fun
-  5.times do
-    puts "Penguins like to jump off icebergs!"
-  end
+7.times do
+  puts "I am doing the dishes left by my former friends."
 end
