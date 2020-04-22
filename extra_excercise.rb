@@ -1,3 +1,1 @@
-7.times do
-  puts "I am doing the dishes left by my former friends."
-end
+jewels_in_bag= 100
